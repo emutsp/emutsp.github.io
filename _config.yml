@@ -1,7 +1,7 @@
 # Site settings
 title: The Sophia Project
 email: thesophiaproject.emu@gmail.com
-url: 
+url: thesophiaprojectemu.com
 description: > # this means to ignore newlines until "baseurl:"
   The Sophia Project (TSP) is a transformative learning experience designed for students who are eager to discover and practice a new level of learning.
 baseurl: "" # the subpath of your site, e.g. /blog
