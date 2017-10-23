@@ -1,0 +1,28 @@
+# Site settings
+title: The Sophia Project
+email: thesophiaproject.emu@gmail.com
+url: 
+description: > # this means to ignore newlines until "baseurl:"
+  The Sophia Project (TSP) is a transformative learning experience designed for students who are eager to discover and practice a new level of learning.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#006633'
+
+# Footer settings
+footer: The Sophia Project at EMU
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/EMU_SophiaProj
+  - title: facebook
+    url: https://www.facebook.com/emusophiaproject/
+
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
